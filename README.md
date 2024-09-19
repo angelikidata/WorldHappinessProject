@@ -1,4 +1,4 @@
-WorldHappinessProject
+WorldHappinessProject<br />
 Suivre les tendances et comparer les scores de bonheur mondiaux (149 pays sur une période de 16 ans). Utiliser le machine learning pour identifier les facteurs influençant la qualité de vie par pays.
 ➢ Exploration & nettoyage des données - 1949 entrées (Numpy / Pandas)
 ➢ Data visualization (matplotlib/bokeh)
