@@ -1,11 +1,13 @@
 World Happiness Project:<br />
-Suivre les tendances et comparer les scores de bonheur mondiaux (149 pays sur une période de 16 ans). Utiliser le machine learning pour identifier les facteurs influençant la qualité de vie par pays.<br />
-➢ Exploration & nettoyage des données - 1949 entrées (Numpy / Pandas)<br />
+Track trends and compare global happiness scores (149 countries over a 16-year period).<br />
+Use machine learning to identify factors influencing quality of life by country.<br />
+➢ Data exploration & cleaning - 1949 entries (Numpy / Pandas)<br />
 ➢ Data visualization (matplotlib/bokeh)<br />
-➢ Modélisation prédictive (Scikit-Learn)<br />
-Modélisations utilisées: Multiple Linear Regression, Decision Tree, Random Forest<br />
+➢ Predictive modeling (Scikit-Learn)<br />
+Models used: Multiple Linear Regression, Decision Tree, Random Forest<br />
 <br />
 Conclusions:<br />
-➢ PIB/hab., Soutien Social, et Espérance de Vie : principaux prédicteurs de bonheur,<br />
-➢ Modèle Random Forest le plus précis,<br />
-➢ Besoin de recherches supplémentaires.<br />
+➢ GDP per capita, Social Support, and Life Expectancy: main predictors of happiness<br />
+➢ Random Forest model is the most accurate<br />
+➢ Further research is needed.
+
